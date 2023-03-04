@@ -1,0 +1,19 @@
+{
+    "twilight sparkle":{
+        "note":1,
+        "please":1,
+        "princess":1
+    },
+    "pinkie pie":{},
+    "rarity":{},
+    "rainbow dash":{},
+    "fluttershy":{
+        "sounds":1,
+        "princess":1,
+        "note":1
+    },
+    "applejack":{
+        "sounds":1,
+        "fun":1
+    }
+}
